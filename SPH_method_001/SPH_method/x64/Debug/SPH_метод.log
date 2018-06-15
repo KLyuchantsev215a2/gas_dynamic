@@ -1,0 +1,10 @@
+﻿  particle.cpp
+c:\my documents\visual studio 2017\projects\sph_method_001\sph_method\particle.cpp(23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\my documents\visual studio 2017\projects\sph_method_001\sph_method\particle.cpp(26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+c:\my documents\visual studio 2017\projects\sph_method_001\sph_method\main.cpp(73): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\my documents\visual studio 2017\projects\sph_method_001\sph_method\main.cpp(206): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\my documents\visual studio 2017\projects\sph_method_001\sph_method\main.cpp(207): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  SPH_метод.vcxproj -> C:\My documents\Visual Studio 2017\Projects\SPH_method_001\SPH_method\x64\Debug\SPH_method.exe
+  SPH_метод.vcxproj -> C:\My documents\Visual Studio 2017\Projects\SPH_method_001\SPH_method\x64\Debug\SPH_method.pdb (Partial PDB)

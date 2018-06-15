@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (SPH_метод.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+main.cpp(40): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+main.cpp(159): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+main.cpp(160): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  0 of 332 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SPH_метод.vcxproj -> C:\My documents\Visual Studio 2017\Projects\SPH_method_001\SPH_method\Release\SPH_method.exe
